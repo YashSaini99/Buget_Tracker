@@ -14,7 +14,7 @@ A simple and efficient command-line application for tracking your income and exp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Budget_Tracker.git
+   git clone https://github.com/YashSaini99/Budget_Tracker.git
    cd Budget_Tracker
    ```
 
