@@ -34,7 +34,7 @@ The CSV file will contain the following columns:
 
 ## Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/YashSaini99/Buget_Tracker/blob/main/CLI.png)
 
 ## 🛠 Requirements
 
