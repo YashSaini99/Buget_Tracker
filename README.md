@@ -20,7 +20,7 @@ A simple and efficient command-line application for tracking your income and exp
 
 2. **Build the application:**
    ```bash
-   go build -o main.go
+   go build -o main
    ```
 
 ## 📄 CSV Format
@@ -30,6 +30,11 @@ The CSV file will contain the following columns:
 - 📈 **Type** - The type of transaction (`income` or `expense`).
 - 💵 **Amount** - The amount of the transaction.
 - 📝 **Description** - The description of the transaction.
+
+
+## Screenshot
+
+![App Screenshot]()
 
 ## 🛠 Requirements
 
